@@ -1,0 +1,7 @@
+env:
+  es2020: true
+extends:
+  - re-taro
+  - re-taro/typescript
+parserOptions:
+  project: ./tsconfig.json
